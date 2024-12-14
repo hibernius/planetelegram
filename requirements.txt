@@ -1,0 +1,4 @@
+prettytable==3.9.0
+python-dotenv==1.0.0
+python-telegram-bot==20.5
+xmltodict==0.13.0
